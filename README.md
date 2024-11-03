@@ -15,6 +15,6 @@ No installation required. Application is deployed on Render.
 
 ## Links<a id="links"></a>
 
-Web Service Application - https://module-9-challenge-weather-dashboard-hufi.onrender.com/
+Web Service Application - https://krazy-kanban-board-project.onrender.com/
 
 Github Repository - https://github.com/sketchyTK/Kanban-Board
